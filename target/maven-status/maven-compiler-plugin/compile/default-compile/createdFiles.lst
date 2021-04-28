@@ -1,0 +1,10 @@
+br/com/landingpage/repository/ClienteRepository.class
+br/com/landingpage/repository/ListaRepository.class
+br/com/landingpage/model/Cliente.class
+br/com/landingpage/model/Lista.class
+br/com/landingpage/service/ClienteService.class
+br/com/landingpage/service/ListaServiceImplements.class
+br/com/landingpage/service/ListaService.class
+br/com/landingpage/LandingpageApplication.class
+br/com/landingpage/service/ClienteServiceImplements.class
+br/com/landingpage/Controller/ClienteController.class
